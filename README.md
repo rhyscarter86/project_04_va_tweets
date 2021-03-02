@@ -3,9 +3,10 @@
 # Understanding Activity in Department of Veterans Affairs Twitter Accounts
 
 This effort looks at roughly 50,000 tweets to three Department of Veterans Affairs (VA) accounts, including one for the department as a whole, one for the Veterans Benefits Administration (VBA), and one for the Veterans Health Administration (VHA).
+
 ## Description and Data Used
 
-Data from Twitter was collected via the Twint package, going back for a 6 month period, roughly August 2020 through January 2021. Data from each of the three accounts was combined into one master data file, and different masking was used to focus on specific topics of interest, namely Coronavirus activity, Mental Health Risk, and Suicide Prevention related tweets.
+Data from Twitter was collected via the Twint package, going back for a 6 month period, roughly August 2020 through January 2021. Data from each of the three accounts was combined into one master data file, and different masking was used to focus on specific topics of interest, namely Coronavirus activity, Mental Health Risk, and Suicide Prevention related tweets. This amount of data was chosen due to it being sufficiently large enough and covering enough time, without presenting too challenging an initial set of data to work with to achieve a minimally viable product.
 
 ## Overall Outcome
 
@@ -44,4 +45,4 @@ Data from Twitter was collected via the Twint package, going back for a 6 month 
 There are clear implications for gaining a better understanding of the Veteran community's needs and current concerns. While VA may have its messaging, this may or may not align with what Veterans themselves are most concerned with. This effort seeks to bridge that gap. Additionally, gaining an understanding of who the Veterans are currently using Twitter, as well as who may be influential, presents additional opportunities for more targeted Veteran outreach and effective communications.  
 
 #### *Future Efforts:*
-Expand the use of not just Twitter data, but other hubs of Veteran communications, including message boards, Reddit threads, and others. 
+Expand the use of not just Twitter data, but other hubs of Veteran communications, including message boards, Reddit threads, and others.
